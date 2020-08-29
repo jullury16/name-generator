@@ -56,12 +56,22 @@ if (isset($_POST['number']) and isset($_POST['locale']) and (int)$_POST['number'
             <div class="form-group">
                 <label for="locale">Locale</label>
                 <select name="locale" id="locale">
-                    <option value="en_US">Anglais</option>
-                    <option value="zh_CN">Chinois</option>
-                    <option value="es_ES">Espagnol</option>
+                    <option value="de_DE">Allemagne</option>
+                    <option value="pt_BR">Brésil</option>
+                    <option value="en_AU ">Australie</option>
+                    <option value="en_CA">Canada</option>
+                    <option value="zh_CN">Chine</option>
+                    <option value="es_ES">Espagne</option>
+                    <option value="en_US">Etats Unis</option>
                     <option value="fr_FR">Français</option>
-                    <option value="it_IT">Italien</option>
-                    <option value="ja_JP">Japonais</option>
+                    <option value="en_GB">Grande Bretagne</option>
+                    <option value="hi_IN">Hindi</option>
+                    <option value="en_IN ">Inde</option>
+                    <option value="it_IT">Italie</option>
+                    <option value="ja_JP">Japon</option>
+                    <option value="es_MX">Méxique</option>
+                    <option value="en_NZ">Nouvelle Zélande</option>
+                    <option value="pt_PT">Portugal</option>
                 </select>
             </div>
             <div class="form-group">
