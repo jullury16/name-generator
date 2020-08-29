@@ -1,0 +1,13 @@
+{
+    "name": "jullury/firstname-generator",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jullury",
+            "email": "jullandriamazava@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}
